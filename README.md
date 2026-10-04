@@ -414,4 +414,3 @@ If you find this project useful, consider giving the repository a ⭐ on GitHub.
 >
 > **The data provided are auto-generated for testing purposes only. I accept no responsibility for the authenticity or accuracy of the provided data.**
 
-Built with ❤️ using **Python + FastAPI**.
